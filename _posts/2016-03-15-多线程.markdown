@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "多线程整理"
+title:      "x多线程"
 subtitle:   "多线程"
-date:       2016-03-15
+date:       2016-03-22
 author:     "未久夕多"
 header-img: "img/home-bg-o.jpg"
 tags:
-	 - 多线程
-	 - iOS
+    - iOS
+    - 多线程
 ---
 
 
