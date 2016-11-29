@@ -6,9 +6,8 @@ date:       2016-02-17
 author:     "未久夕多"
 header-img: "img/home-bg-o.jpg"
 tags:
-    - 知乎
-    - 前端开发
-    - UX Design
+    - iOS
+    - Core Data
 ---
 
 

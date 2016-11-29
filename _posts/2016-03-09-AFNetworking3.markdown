@@ -6,7 +6,8 @@ date:       2016-03-09
 author:     "未久夕多"
 header-img: "img/home-bg-o.jpg"
 tags:
-    - AFNetworking3.0
+    - AFNetworking
+    - iOS
 ---
 
 

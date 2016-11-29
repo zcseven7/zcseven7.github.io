@@ -7,6 +7,7 @@ author:     "未久夕多"
 header-img: "img/home-bg-o.jpg"
 tags:
     - some-questions
+    - iOS
 ---
 
 #### 1.不要在dealloc init 中使用accessor

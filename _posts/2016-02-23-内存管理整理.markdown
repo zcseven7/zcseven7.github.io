@@ -6,9 +6,8 @@ date:       2016-02-23
 author:     "未久夕多"
 header-img: "img/home-bg-o.jpg"
 tags:
-    - 内存
-    - weak
-    - strong
+    - 内存管理
+    - iOS
 ---
 
 > 关于内存管理的笔记整理，记录点滴，积水成潭

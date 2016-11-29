@@ -7,6 +7,8 @@ author:     "未久夕多"
 header-img: "img/home-bg-o.jpg"
 tags:
     - NSOperation/NSOperationQueue
+    - iOS
+    - 多线程
 ---
 
 > NSOperation使用

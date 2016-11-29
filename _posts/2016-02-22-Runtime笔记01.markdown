@@ -6,10 +6,8 @@ date:       2016-02-22
 author:     "未久夕多"
 header-img: "img/home-bg-o.jpg"
 tags:
-    - 运行时
-    - 协议
-    - 消息
-    - 转发
+    - runtime
+    - iOS
 ---
 
 
