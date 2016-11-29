@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      "AFNetworking3.0"
+subtitle:   "AFNetworking3.0"
+date:       2016-03-09
+author:     "未久夕多"
+header-img: "img/home-bg-o.jpg"
+tags:
+    - AFNetworking3.0
+---
+
+
 ## 别说你会AFNetworking3.0
 
 ### 1. 为什么要使用NSURLSession而不是NSURLConnection

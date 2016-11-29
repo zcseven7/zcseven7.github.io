@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      "AFNetworking"
+subtitle:   "AFNetworking"
+date:       2016-03-01
+author:     "未久夕多"
+header-img: "img/home-bg-o.jpg"
+tags:
+    - AFNetworking
+---
+
 ## AFNetworking
 
 [AFNetworking 3.0 Migration Guide](https://github.com/AFNetworking/AFNetworking/wiki/AFNetworking-3.0-Migration-Guide#new-requirements-ios-7-mac-os-x-109-watchos-2-tvos-9--xcode-7)

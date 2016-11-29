@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      "some-questions"
+subtitle:   "some-questions"
+date:       2016-03-08
+author:     "未久夕多"
+header-img: "img/home-bg-o.jpg"
+tags:
+    - some-questions
+---
+
 #### 1.不要在dealloc init 中使用accessor
 [为什么不要在init和dealloc函数中使用accessor](http://blog.smilexiaofeng.com/blog/2015/08/11/why-do-not-use-accessor-in-init-and-dealloc/)
 
