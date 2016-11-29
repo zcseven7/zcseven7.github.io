@@ -12,31 +12,31 @@ tags:
 
 > 多线程的相关知识
 
-## 多线程的几种实现形式
+### 多线程的几种实现形式
 * pthread
 * NSThread
 * GCD
 * NSOpreation/NSOpreationQueue
 
-### NSThread
+#### NSThread
 
-### 锁
+#### 锁
 
 
-### 同步异步
+#### 同步异步
 
-### 串行队列  并发队列
+#### 串行队列  并发队列
 
-## GCD
+### GCD
 
-### group
+#### group
 
-### barrier
+#### barrier
 
-### apply
+#### apply
 
-### after
+#### after
 
-### once
+#### once
 
-## NSOpreation/NSOpreationQueue
+### NSOpreation/NSOpreationQueue
