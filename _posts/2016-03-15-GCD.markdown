@@ -6,8 +6,8 @@ date:       2016-03-15
 author:     "未久夕多"
 header-img: "img/home-bg-o.jpg"
 tags:
-    - GCD 
-    - iOS
+     - GCD 
+     - iOS
 ---
 
 > GCD相关问题整理
