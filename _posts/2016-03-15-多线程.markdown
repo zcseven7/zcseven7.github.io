@@ -6,8 +6,8 @@ date:       2016-03-15
 author:     "未久夕多"
 header-img: "img/home-bg-o.jpg"
 tags:
-	- 多线程
-	- iOS
+	 - 多线程
+	 - iOS
 ---
 
 > 多线程的相关知识
@@ -40,5 +40,3 @@ tags:
 ### once
 
 ## NSOpreation/NSOpreationQueue
-
-### 
