@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "多线程"
+title:      "多线程整理"
 subtitle:   "多线程"
 date:       2016-03-15
 author:     "未久夕多"
